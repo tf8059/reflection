@@ -24,4 +24,4 @@ Using version control you can make changes to previous version without changing 
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-Version-control!!
+Version-control!! GOOD
